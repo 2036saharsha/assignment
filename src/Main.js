@@ -15,7 +15,7 @@ function Main() {
       <Router>
           <Routes>
              <Route path="/" exact element={<App />} />
-             <Route path="/q2" element={<Widget />} />
+             <Route path="/q3" element={<Widget />} />
              <Route path="/chart" element={<Visualize />} />
              <Route path="/data" element={<DataFetch />} />
           </Routes>
