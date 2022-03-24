@@ -1,0 +1,17 @@
+.list {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(235, 118, 118);
+    background-color: rgb(31, 24, 24);
+    display: inline-table;
+
+
+  }
+  
+  .list span {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: rgb(115, 194, 108);
+    display: flex;
+
+  }
